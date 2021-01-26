@@ -8,8 +8,7 @@ Dave Howard is an \_*\_*\__ from Portland, Maine. After leaving the Marine Corps
 
 He eventually left everything behind in 2017 and moved to southern Utah to be a wilderness guide.
 
-> *Wilderness is not a luxury but a necessity of the human spirit*
->
+> ***Wilderness is not a luxury but a necessity of the human spirit***
 >
 > Edward Abbey
 
