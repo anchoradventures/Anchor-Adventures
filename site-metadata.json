@@ -60,7 +60,7 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "",
                 "url": "",
                 "style": "icon",
                 "icon_class": "dev",
