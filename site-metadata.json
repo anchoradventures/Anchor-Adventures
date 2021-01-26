@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
