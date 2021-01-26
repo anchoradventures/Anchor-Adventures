@@ -11,8 +11,7 @@ He eventually left everything behind in 2017 and moved to southern Utah to be a 
 > *Wilderness is not a luxury but a necessity of the human spirit*
 >
 >
-> \<cite>
-> Edward Abbey \<cite>
+> Edward Abbey
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
