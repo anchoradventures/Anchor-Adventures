@@ -14,6 +14,8 @@ form_fields:
     label: Email
     default_value: Your email address
     is_required: true
+    options:
+      - lorem-ipsum
   - input_type: select
     name: subject
     label: Subject
