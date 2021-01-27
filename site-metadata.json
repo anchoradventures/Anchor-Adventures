@@ -47,7 +47,8 @@
                 "url": "https://www.facebook.com/AnchorAdventures1",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "LinkedIn",
