@@ -64,7 +64,7 @@
                 "style": "link",
                 "icon_class": "facebook",
                 "new_window": true,
-                "no_follow": false,
+                "no_follow": true,
                 "type": "action"
             }
         ]
