@@ -61,7 +61,7 @@
             {
                 "label": "Poop",
                 "url": "lorem-ipsum",
-                "style": "icon",
+                "style": "link",
                 "icon_class": "facebook",
                 "new_window": false,
                 "no_follow": false,
