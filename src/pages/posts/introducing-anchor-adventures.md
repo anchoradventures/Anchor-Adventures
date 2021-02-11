@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Introducing Anchor Adventures!
 subtitle: lorem-ipsum
 date: '2021-02-11'
 thumb_img_alt: lorem-ipsum
