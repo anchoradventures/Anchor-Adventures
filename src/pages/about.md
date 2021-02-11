@@ -12,6 +12,8 @@ He eventually left everything behind in 2017 and moved to southern Utah to be a 
 >
 > Edward Abbey
 
-**
+
+
+Now he's back again and ready to share his newest adventure with the world, with the hope that it can be an inspiration to others to follow their dreams as well.
 
 *Thank You for reading!*
