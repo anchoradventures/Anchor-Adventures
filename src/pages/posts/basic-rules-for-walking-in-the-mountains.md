@@ -7,7 +7,7 @@ excerpt: >-
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 template: post
-date: '0002-02-11'
+date: '2021-02-11'
 ---
 
 
