@@ -9,4 +9,3 @@ content_img_path: images/1.jpg
 template: post
 date: '2021-02-11'
 ---
-<https://www.youtube.com/watch?v=Nk2j8-O4Hnk&t=7s>
