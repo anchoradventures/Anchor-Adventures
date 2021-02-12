@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: images/birdrockutah.jpg
 template: page
 ---
-Dave Howard was born in the small city of Portland, Maine. He joined the Marine Corps at 18 and served 4 years. After leaving the Marine Corps, he worked a few jobs in different industries, eventually working for several years for a travel broker where he soon became disillusioned with the 9-5 grind.
+Dave Howard was born in the small city of Portland, Maine. He joined the Marine Corps at 18 and served 4 years. After leaving the Marine Corps, he worked a few jobs in different industries, eventually working for several years for a travel broker where he soon became disillusioned with the 9-5 grind, and longed for something more in his life.
 
 He eventually left everything behind in 2017 and moved to southern Utah to be a wilderness guide, where he found his passion for adventure, among other things.
 
