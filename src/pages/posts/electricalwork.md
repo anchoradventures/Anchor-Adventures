@@ -17,3 +17,6 @@ I'm still finishing up planning the journey, but in my next post, I'll finally a
 
 Thanks for watching and as always, follow me at the links below to stay up to date:
 
+[Instagram](https://www.instagram.com/anchor.adventures/)
+
+[Youtube](https://www.youtube.com/channel/UCAXGLH1tsLYJ78\_2MvyEstQ)
