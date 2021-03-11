@@ -16,3 +16,6 @@ As the days go on, I'm starting to get nervous about what feels like a huge unde
 I'm still finishing up planning the journey, but in my next post, I'll finally announce what that plan is.
 
 Thanks for watching and as always, follow me at the links below to stay up to date:
+
+\[Instagram]\(https://www.instagram.com/anchor.adventures/)
+
