@@ -7,6 +7,8 @@ template: post
 thumb_img_path: images/GH010025.00_03_38_49.Still001.jpg
 excerpt: Updates on electrical system
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGMAlFZ3-IA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We're getting closer and closer to launch day and I've been able to take advantage of the warmer weather to do some work on the boat.
 
 I upgraded the electrical panel and changed out some of the old wiring. It was definitely alot more challenging than I expected. But then again, I didn't really know what to expect as I have zero experience working on boats or with electrical work in general, so it was a fun learning experience as well.
