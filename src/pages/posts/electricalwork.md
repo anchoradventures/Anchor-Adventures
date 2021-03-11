@@ -1,6 +1,6 @@
 ---
 title: Getting ready for launch!
-subtitle: lorem-ipsum
+subtitle: Updates on electrical work
 date: '2021-03-11'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
