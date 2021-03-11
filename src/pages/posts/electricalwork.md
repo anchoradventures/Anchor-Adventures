@@ -5,6 +5,7 @@ date: '2021-03-11'
 hide_header: false
 template: post
 thumb_img_path: images/GH010025.00_03_38_49.Still001.jpg
+excerpt: Updates on electrical system
 ---
 We're getting closer and closer to launch day and I've been able to take advantage of the warmer weather to do some work on the boat.
 
