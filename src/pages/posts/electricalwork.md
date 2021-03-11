@@ -2,7 +2,6 @@
 title: Getting ready for launch!
 subtitle: Updates on electrical system
 date: '2021-03-11'
-excerpt: lorem-ipsum
 hide_header: false
 template: post
 ---
