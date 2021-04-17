@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'First time sailing, ever!'
 subtitle: lorem-ipsum
 date: '2021-04-17'
 thumb_img_alt: lorem-ipsum
