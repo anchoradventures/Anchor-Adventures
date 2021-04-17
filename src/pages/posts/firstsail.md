@@ -6,3 +6,4 @@ thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 template: post
+---
