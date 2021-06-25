@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Day 76 - June 11
 subtitle: lorem-ipsum
 date: '2021-06-25'
 thumb_img_alt: lorem-ipsum
