@@ -1,5 +1,5 @@
 ---
-title: Day 76 - June 11
+title: 'Day 76 - June 11, 2021'
 date: '2021-06-11'
 thumb_img_alt: Sailing on choppy water
 excerpt: >-
