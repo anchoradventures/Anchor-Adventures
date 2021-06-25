@@ -2,7 +2,9 @@
 title: 'Day 81 - June 16, 2021'
 date: '2021-06-25'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  raised the sails in the morning to a beautiful NW wind, and made my way south
+  on my last leg to Portland. The passage was idyllic. The wind swept over my...
 hide_header: false
 template: post
 ---
