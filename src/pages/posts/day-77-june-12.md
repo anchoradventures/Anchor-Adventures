@@ -1,6 +1,6 @@
 ---
 title: Day 77 - June 12
-date: '2021-06-25'
+date: '2021-06-12'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
