@@ -7,6 +7,7 @@ excerpt: >-
   on my last leg to Portland. The passage was idyllic. The wind swept over my...
 hide_header: false
 template: post
+thumb_img_path: images/Screen Shot 2021-06-25 at 11.37.10 AM.png
 ---
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FAnchorAdventures1%2Fvideos%2F172507678184874%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
