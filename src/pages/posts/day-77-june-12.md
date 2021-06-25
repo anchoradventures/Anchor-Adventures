@@ -1,7 +1,7 @@
 ---
 title: Day 77 - June 12
 date: '2021-06-12'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: 'Boothbay, MN marina'
 excerpt: lorem-ipsum
 hide_header: false
 template: post
