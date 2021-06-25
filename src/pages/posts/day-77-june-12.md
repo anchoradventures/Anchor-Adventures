@@ -6,9 +6,14 @@ excerpt: lorem-ipsum
 hide_header: false
 template: post
 ---
-## Lorem ipsum
+My disappointment at having to dock in Boothbay yesterday was short lived. Today, the sun is shining, and the quintessential small Maine coastal town is bustling with life.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+I took care of all my "chores" like restocking and laundry yesterday, and could have left this morning, but felt compelled to stay and explore the town in better weather, and am glad I did.
+
+
+Tomorrow is my birthday. I had expected to be back in Portland by now with friends and family, but I continuously got sidetracked this week into different adventures.
+
+
+But my last day at 32 was a stark contrast to the rest of this revolution around the sun. I went out to a diner for breakfast, I sat and enjoyed live music playing on the pier with others, and had great conversations with strangers and met some interesting people.
+Tomorrow is my birthday. Tomorrow I will sail.
