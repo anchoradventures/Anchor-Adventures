@@ -1,5 +1,5 @@
 ---
-title: Day 77 - June 12
+title: 'Day 77 - June 12, 2021'
 date: '2021-06-12'
 thumb_img_alt: 'Boothbay, MN marina'
 excerpt: >-
