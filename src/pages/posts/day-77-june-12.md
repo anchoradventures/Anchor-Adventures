@@ -5,6 +5,7 @@ thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 template: post
+thumb_img_path: images/IMG_20210612_175934.jpg
 ---
 ![](/\_static/app-assets/IMG\_20210612\_175934.jpg)
 
