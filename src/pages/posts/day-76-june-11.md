@@ -2,7 +2,9 @@
 title: Day 76 - June 11
 date: '2021-06-11'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  After working for the local couple for a few days, I felt like it was time to
+  move on. I still need to get to...
 hide_header: false
 template: post
 ---
