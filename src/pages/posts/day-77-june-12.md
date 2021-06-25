@@ -2,7 +2,10 @@
 title: Day 77 - June 12
 date: '2021-06-12'
 thumb_img_alt: 'Boothbay, MN marina'
-excerpt: lorem-ipsum
+excerpt: >-
+  My disappointment at having to dock in Boothbay yesterday was short lived.
+  Today, the sun is shining, and the quintessential small Maine coastal town is
+  bustling with life.
 hide_header: false
 template: post
 thumb_img_path: images/IMG_20210612_175934.jpg
