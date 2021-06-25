@@ -6,6 +6,9 @@ excerpt: lorem-ipsum
 hide_header: false
 template: post
 ---
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FAnchorAdventures1%2Fvideos%2F172507678184874%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 I raised the sails in the morning to a beautiful NW wind, and made my way south on my last leg to Portland. The passage was idyllic. The wind swept over my right shoulder and pushed Wayfinder along at 6 knots the entire way. A few really strong gusts along the way overpowered the low-functioning sheet to tiller system I jury rigged and I had to take control to prevent yawing, but otherwise, it was smooth sailing. I felt ecstatic.
 
 
